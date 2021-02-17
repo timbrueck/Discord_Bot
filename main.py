@@ -102,4 +102,4 @@ async def unban(ctx, *, member):
 
 
 
-bot.run('ODEwODYzNTcwMTc0MjE0MjE2.YCp1jA.6gZBX49SSAejCamyDN0tGlibKag')
+bot.run('token')
